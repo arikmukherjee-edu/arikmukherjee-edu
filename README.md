@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on GitHub Projects
 - 🤔 I’m looking for help with UI/UX
 - 💬 Ask me about C++,Python,Web Development
-- 📫 How to reach me: arikmukherjee9@gmail.com
+- 📫 How to reach me: arikmukherjee3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am <a href=" ">see more</a>
 
