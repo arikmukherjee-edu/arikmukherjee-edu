@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<!-- **arikmukherjee-edu/arikmukherjee-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!-- **arik-mukherjee/arik-mukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
